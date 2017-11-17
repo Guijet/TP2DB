@@ -1,0 +1,74 @@
+c:\users\guijet\documents\visual studio 2017\Projects\TP2_BD\TP2_BD\bin\Debug\TP2_BD.exe.config
+c:\users\guijet\documents\visual studio 2017\Projects\TP2_BD\TP2_BD\bin\Debug\TP2_BD.exe
+c:\users\guijet\documents\visual studio 2017\Projects\TP2_BD\TP2_BD\bin\Debug\TP2_BD.pdb
+c:\users\guijet\documents\visual studio 2017\Projects\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csprojResolveAssemblyReference.cache
+c:\users\guijet\documents\visual studio 2017\Projects\TP2_BD\TP2_BD\obj\Debug\TP2_BD.Form1.resources
+c:\users\guijet\documents\visual studio 2017\Projects\TP2_BD\TP2_BD\obj\Debug\TP2_BD.Properties.Resources.resources
+c:\users\guijet\documents\visual studio 2017\Projects\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csproj.GenerateResource.Cache
+c:\users\guijet\documents\visual studio 2017\Projects\TP2_BD\TP2_BD\obj\Debug\TP2_BD.exe
+c:\users\guijet\documents\visual studio 2017\Projects\TP2_BD\TP2_BD\obj\Debug\TP2_BD.pdb
+G:\TP2_BD\TP2_BD\bin\Debug\TP2_BD.exe.config
+G:\TP2_BD\TP2_BD\bin\Debug\TP2_BD.exe
+G:\TP2_BD\TP2_BD\bin\Debug\TP2_BD.pdb
+G:\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csprojResolveAssemblyReference.cache
+G:\TP2_BD\TP2_BD\obj\Debug\TP2_BD.Form1.resources
+G:\TP2_BD\TP2_BD\obj\Debug\TP2_BD.Properties.Resources.resources
+G:\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csproj.GenerateResource.Cache
+G:\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csproj.CoreCompileInputs.cache
+G:\TP2_BD\TP2_BD\obj\Debug\TP2_BD.exe
+G:\TP2_BD\TP2_BD\obj\Debug\TP2_BD.pdb
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\bin\Debug\TP2_BD.exe.config
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\bin\Debug\TP2_BD.exe
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\bin\Debug\TP2_BD.pdb
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csprojResolveAssemblyReference.cache
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.Form1.resources
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.Properties.Resources.resources
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csproj.GenerateResource.Cache
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.exe
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.pdb
+C:\Users\201475665\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csprojResolveAssemblyReference.cache
+C:\Users\201475665\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.Form1.resources
+C:\Users\201475665\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.Properties.Resources.resources
+C:\Users\201475665\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csproj.GenerateResource.Cache
+C:\Users\201475665\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csproj.CoreCompileInputs.cache
+C:\Users\201475665\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\bin\Debug\TP2_BD.exe.config
+C:\Users\201475665\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\bin\Debug\TP2_BD.exe
+C:\Users\201475665\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\bin\Debug\TP2_BD.pdb
+C:\Users\201475665\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.exe
+C:\Users\201475665\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.pdb
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\bin\Debug\TP2_BD.exe.config
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\bin\Debug\TP2_BD.exe
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\bin\Debug\TP2_BD.pdb
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csprojResolveAssemblyReference.cache
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.Form1.resources
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.Properties.Resources.resources
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csproj.GenerateResource.Cache
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.exe
+C:\Users\Guijet\Desktop\TP2_BD\TP2_BD\TP2_BD\TP2_BD\obj\Debug\TP2_BD.pdb
+C:\Users\Guijet\Desktop\App C#\TP2_BD\TP2_BD\bin\Debug\TP2_BD.exe.config
+C:\Users\Guijet\Desktop\App C#\TP2_BD\TP2_BD\bin\Debug\TP2_BD.exe
+C:\Users\Guijet\Desktop\App C#\TP2_BD\TP2_BD\bin\Debug\TP2_BD.pdb
+C:\Users\Guijet\Desktop\App C#\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csprojResolveAssemblyReference.cache
+C:\Users\Guijet\Desktop\App C#\TP2_BD\TP2_BD\obj\Debug\TP2_BD.Form1.resources
+C:\Users\Guijet\Desktop\App C#\TP2_BD\TP2_BD\obj\Debug\TP2_BD.Properties.Resources.resources
+C:\Users\Guijet\Desktop\App C#\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csproj.GenerateResource.Cache
+C:\Users\Guijet\Desktop\App C#\TP2_BD\TP2_BD\obj\Debug\TP2_BD.exe
+C:\Users\Guijet\Desktop\App C#\TP2_BD\TP2_BD\obj\Debug\TP2_BD.pdb
+C:\Users\Guijet\Desktop\TP2_GuillaumeJette\App C#\TP2_BD\TP2_BD\bin\Debug\TP2_BD.exe.config
+C:\Users\Guijet\Desktop\TP2_GuillaumeJette\App C#\TP2_BD\TP2_BD\bin\Debug\TP2_BD.exe
+C:\Users\Guijet\Desktop\TP2_GuillaumeJette\App C#\TP2_BD\TP2_BD\bin\Debug\TP2_BD.pdb
+C:\Users\Guijet\Desktop\TP2_GuillaumeJette\App C#\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csprojResolveAssemblyReference.cache
+C:\Users\Guijet\Desktop\TP2_GuillaumeJette\App C#\TP2_BD\TP2_BD\obj\Debug\TP2_BD.Form1.resources
+C:\Users\Guijet\Desktop\TP2_GuillaumeJette\App C#\TP2_BD\TP2_BD\obj\Debug\TP2_BD.Properties.Resources.resources
+C:\Users\Guijet\Desktop\TP2_GuillaumeJette\App C#\TP2_BD\TP2_BD\obj\Debug\TP2_BD.csproj.GenerateResource.Cache
+C:\Users\Guijet\Desktop\TP2_GuillaumeJette\App C#\TP2_BD\TP2_BD\obj\Debug\TP2_BD.exe
+C:\Users\Guijet\Desktop\TP2_GuillaumeJette\App C#\TP2_BD\TP2_BD\obj\Debug\TP2_BD.pdb
+C:\Users\Guijet\Desktop\TP2_DB\TP2_BD\bin\Debug\TP2_BD.exe.config
+C:\Users\Guijet\Desktop\TP2_DB\TP2_BD\bin\Debug\TP2_BD.exe
+C:\Users\Guijet\Desktop\TP2_DB\TP2_BD\bin\Debug\TP2_BD.pdb
+C:\Users\Guijet\Desktop\TP2_DB\TP2_BD\obj\Debug\TP2_BD.csprojResolveAssemblyReference.cache
+C:\Users\Guijet\Desktop\TP2_DB\TP2_BD\obj\Debug\TP2_BD.Form1.resources
+C:\Users\Guijet\Desktop\TP2_DB\TP2_BD\obj\Debug\TP2_BD.Properties.Resources.resources
+C:\Users\Guijet\Desktop\TP2_DB\TP2_BD\obj\Debug\TP2_BD.csproj.GenerateResource.Cache
+C:\Users\Guijet\Desktop\TP2_DB\TP2_BD\obj\Debug\TP2_BD.exe
+C:\Users\Guijet\Desktop\TP2_DB\TP2_BD\obj\Debug\TP2_BD.pdb
